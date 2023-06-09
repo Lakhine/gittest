@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+C:\Users\Acer\Desktop\gittest\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1988329410.index
-4079546886.index
-3724663960.index
-1515353379.index
-2970229728.index
-849496823.index
